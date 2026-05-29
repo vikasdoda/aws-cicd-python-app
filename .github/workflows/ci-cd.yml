@@ -10,7 +10,7 @@ permissions:
 
 env:
   AWS_REGION: eu-central-1
-  ECR_REPOSITORY: fastapi-cicd-demo
+  ECR_REPOSITORY: aws-cicd-python-app
 
 jobs:
   build-test-push:
